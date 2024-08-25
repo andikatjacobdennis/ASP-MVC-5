@@ -282,3 +282,10 @@
     - Advanced Localization Techniques
     - Handling Resource Files
     - Localizing Dates, Times, and Numbers
+   
+41. **Action Filters and Custom Filters**
+    - Introduction to Action Filters
+    - Creating Custom Action Filters
+    - Using Filters for Authentication and Authorization
+    - Implementing Logging and Error Handling Filters
+    - Global Filters and Filter Overrides
